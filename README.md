@@ -55,11 +55,15 @@ progression.
 • The shooting mechanism effectively interacts with the collide objects.
 • Collision handling ensures proper interaction between the player, planes, and
 interactive elements.
-5. Screenshots-
+5. Screenshots-![newwq](https://github.com/user-attachments/assets/53bdcab4-15c1-498a-bc98-9924cf6df072)
+6. ![image](https://github.com/user-attachments/assets/cdeedbf8-f437-4dcf-85c1-f25c970e9207)
+![image](https://github.com/user-attachments/assets/bf64d3ef-2fe6-42b7-b578-dfe9dcff2bcc)
 
 
 
-6. Conclusion This experiment demonstrated fundamental game development
+
+
+7. Conclusion This experiment demonstrated fundamental game development
 principles, including player movement, jumping mechanics, collision detection,
 shooting, and interaction. The structured setup with tagged cubes as planes and
 defined interactive elements ensured a well-organized game environment.
