@@ -18,7 +18,9 @@ onto.
 interaction.
 • Shoot Point: Designated point from which the player can fire projectiles.
 • Main Sphere: The primary player object used for jumping and movement.
-3. Methodology
+
+ Methodology
+   
 3.1 Game Environment Setup
 1. Creating the Surface Plane: A base plane is set up for the player's initial
 movement.
@@ -26,21 +28,26 @@ movement.
 jumping levels.
 3. Adding Collide Objects: 8 interactive objects are placed on planes for shooting.
 4. Defining the Shoot Point: A specific point is set for the player to fire projectiles.
+   
 3.2 Player Controls Implementation
 • The movement of the player is controlled using the WASD keys.
 • Jumping functionality is enabled using the Space key.
 • Collision detection is implemented to ensure interaction with planes and
 objects.
+
 3.3 Level-Based Color Change
 
 • The player object changes color upon reaching a new level to indicate
 progression.
+
 3.4 Shooting Mechanism
 • The player can shoot projectiles at collide objects using mouse input.
 • Proper hit detection ensures interaction between projectiles and objects.
+
 3.5 Collision Handling
 • Collision is managed between the sphere, planes, and interactive objects.
 • Shooting interactions are properly detected to register successful hits.
+
 4. Results and Observations
 • The player object successfully moves using the WASD keys.
 • Jumping to different levels using the Space key is functional.
